@@ -1,2 +1,5 @@
 ## Some examples to use linux command 'grep'
-Execute the file Alltest.sh in this directory and learn the effects of it.
+The picture show the input-command and the output-effect about the command 'grep'.
+
+The file Alltest.sh also can be executed directly to show the output of various commands about
+'grep'.
